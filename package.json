@@ -1,0 +1,11 @@
+{
+	"author": "M Brian",
+	"name": "censorify",
+	"version": "0.1.1",
+	"description": "Censore words out of text",
+	"main": "censortext",
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
